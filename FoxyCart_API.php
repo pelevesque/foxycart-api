@@ -2,7 +2,7 @@
 /**
  * Foxycart API library for FoxyCart 0.7.2 using Curl
  *
- * Default curl options:
+ * Default Curl options:
  *
  * CURLOPT_POST = TRUE
  * CURLOPT_SSL_VERIFYPEER = FALSE
