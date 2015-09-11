@@ -1,0 +1,21 @@
+{
+    "name": "pel/foxycart-api",
+    "description": "A class to consume foxycart's API.",
+    "license": "MIT",
+    "keywords": ["freesound, sound"],
+    "authors": [
+        {
+            "name": "Pierre-Emmanuel Lévesque",
+            "email": "pierre.e.levesque@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pel\\Helper\\": "src"
+        }
+    }
+}
