@@ -1,6 +1,6 @@
 # License
 
-FoxyCart API uses the MIT open source license.
+foxycart-api uses the MIT open source license.
 
 ## MIT License (MIT)
 

@@ -1,5 +1,7 @@
-# FoxyCart API
+# foxycart-api
 
-FoxyCart API is a PHP class used to consume FoxyCart's API.
+## About
+
+A PSR-4 PHP class to consume FoxyCart's API.
 
 [http://www.foxycart.com/](http://www.foxycart.com/)
