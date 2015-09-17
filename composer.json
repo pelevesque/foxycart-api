@@ -2,7 +2,7 @@
     "name": "pel/foxycart-api",
     "description": "A class to consume foxycart's API.",
     "license": "MIT",
-    "keywords": ["freesound"],
+    "keywords": ["foxycart"],
     "authors": [
         {
             "name": "Pierre-Emmanuel Lévesque",
