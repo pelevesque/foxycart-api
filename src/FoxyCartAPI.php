@@ -514,6 +514,7 @@ class FoxyCartAPI
                 }
             } elseif ($value !== NULL) {
                 $parsed_params .= $param . '=' . urlencode($value) . '&';
+            }
         }
 
         if ($recursive_call === FALSE) {
@@ -522,5 +523,4 @@ class FoxyCartAPI
 
         return $parsed_params;
     }
-
 }
