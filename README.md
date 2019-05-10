@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pelevesque/foxycart-api.svg?branch=master)](https://travis-ci.org/pelevesque/foxycart-api)
+
 # foxycart-api
 
 ## About
